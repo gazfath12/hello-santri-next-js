@@ -1,4 +1,4 @@
 export default function Pages(){
-    return "gaza alfath"
+    return " 404,halaman tidak ditemukan"
 }
 console.log("aplikasi siap di gunakan")
